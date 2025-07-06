@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Karthikeya252
 - 👀 I’m interested in computers and stuff
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on with nobody right now
+- 🌱 I’m really curious about C language because of how it is used in system development.
+- 💞️ I’m looking to collaborate on with people who have the interest of C/C++. T
+- 💞️ I’m also interested in Data Science.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Nothing
 
